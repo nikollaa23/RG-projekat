@@ -4,6 +4,8 @@ Modeli i teksture preuzeti sa sledecih linkova:
 - https://www.cgtrader.com
 - https://free3d.com
 
+Link do video materijala: https://youtu.be/hUcxki9buz8
+
 Model svetla i prostorije su modelirani samostalno pomocu Blender-a,
 ostali su preuzeti sa linkova iznad.
 
