@@ -1,0 +1,37 @@
+# Blender MTL File: 'Wardrobes.blend'
+# Material Count: 3
+
+newmtl Handle_Metal.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Normal_Handle_Metal.png
+map_Kd Diffuse_Handle_Metal.png
+map_Ks Roughness_Handle_Metal.png
+newmtl Wood_Brown.003
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Diffuse_Wood_Brown.png
+map_Bump Normal_Wood_Brown.png
+newmtl Wood_White.003
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Diffuse_Wood_White.png
+map_Bump Normal_Wood_White.png

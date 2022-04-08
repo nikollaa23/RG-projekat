@@ -1,0 +1,54 @@
+# Blender 3.1.0 MTL File: 'room.blend'
+# www.blender.org
+
+newmtl brick
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  Tileable_Red_Brick_Texturise.jpg
+map_Bump Tileable_Red_Brick_Texturise_NORMAL.jpg
+map_Ks Tileable_Red_Brick_Texturise_SPECULAR.jpg
+
+newmtl ceiling
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  Seamless_Concrete_Floor_Texture.jpg
+map_Bump Seamless_Concrete_Floor_Texture_NORMAL.jpg
+map_Ks Seamless_Concrete_Floor_Texture_SPECULAR.jpg
+
+newmtl floor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  tileable_concrete_tiles_texture.jpg
+map_Bump tileable_concrete_tiles_texture_NORMAL.jpg
+map_Ks tileable_concrete_tiles_texture_SPECULAR.jpg
+
+newmtl uploads_door_door_PNG17579
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  uploads_door_door_PNG17579.png
+map_d  uploads_door_door_PNG17579.png
+
